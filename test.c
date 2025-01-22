@@ -1,4 +1,5 @@
 main(){
-print("Hello")
-return = 1;
+	print("Hello");
+	print("Bye");
+	return = 1;
 }

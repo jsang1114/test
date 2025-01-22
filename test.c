@@ -1,5 +1,7 @@
 main(){
-	print("Hello");
-	print("Bye");
-	return = 1;
+  int a = 1;
+  print(a);
+  print("Hello");
+  return = 1;
 }
+
